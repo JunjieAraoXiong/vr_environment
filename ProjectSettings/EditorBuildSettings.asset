@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpeningScene.unity
+    guid: ce10d20111c88de4b94d0824320c8a4b
+  - enabled: 1
+    path: Assets/Scenes/SaqqaraLanscape.unity
+    guid: 6bb2c0e949958b548a6d3b62a24901a3
+  - enabled: 1
+    path: Assets/Scenes/Descending Underground.unity
+    guid: de5ef69ebbd148e45be1e81a1ea0b317
+  - enabled: 1
+    path: Assets/Scenes/InsideTomb.unity
+    guid: 8ab75c8833733e547972500f05c267be
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 276366ec87d0c6c4292eedbc105a7902
+  - enabled: 0
+    path: Assets/Scenes/Dev/saqara_landscape.unity
+    guid: d840f3fed1cff48209ea83792dac55dc
+  - enabled: 0
+    path: Assets/Scenes/Dev/Hieroglyphics Interaction.unity
+    guid: 407ef36897086c24eabe348fc1f229cf
+  - enabled: 0
+    path: Assets/Scenes/Dev/DescendingUnderground Old.unity
+    guid: 5d87f32d05c674747ad65f2b5163b88c
+  - enabled: 0
+    path: Assets/Scenes/Dev/InteractionTest.unity
+    guid: cc5830dff41874f2f98fc6e493112253
+  - enabled: 0
+    path: Assets/Scenes/Dev/MenuButton.unity
+    guid: 10bf059c4d8e2374da1f0e3c970a35d5
+  - enabled: 0
+    path: Assets/Scenes/Dev/InsideTomb.unity
+    guid: 5c63bae45a4d3a346aee28e9732aedf8
+  - enabled: 0
+    path: Assets/Scenes/Dev/OpeningScene DEV.unity
+    guid: 7f4fb7511bbb2a9488944f3dc7f3e1ec
+  - enabled: 0
+    path: Assets/Scenes/Dev/EndingScene.unity
+    guid: 6be023c162c9c0c4b8982346c06eb42d
+  - enabled: 0
+    path: Assets/Scenes/Async Script Testing/LoadScene.unity
+    guid: ee958601324d4994eb8bafdd43bf0171
+  - enabled: 0
+    path: Assets/Scenes/Async Script Testing/Async Loading Base.unity
+    guid: fabce643c6124874396ed84a3d9b5c70
+  m_configObjects: {}
